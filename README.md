@@ -42,7 +42,7 @@ This project presents an interactive **Power BI dashboard** designed to analyze 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](SalesDashboard.png)
+![Dashboard Screenshot](Sales Dashboard.png)
 
 ---
 
